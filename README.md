@@ -32,3 +32,27 @@
 1. Within your repository, click Settings.
 2. Select “Master branch”
 3. Copy the Github.io URL into a browser
+## Glossary
+* **Branch**: a copy of a Git project that you can change and then add to original project ("main" is the main branch where code is stored)
+* **Clone**: downloading an already made git repository into your computer; when you clone it, you now have your own local version of the repository 
+* **Commit**: saving changes of a file into the local Git repository, or just changing files
+* **Fetch**: downloads commits, files, and refs from a remote repository into your local repository; used to see what everyone else is working on
+* **GIT**: a free and open source software for distributed version control and tracking changes in a set of files 
+* **Github**: a website for software development and version control using Git
+* **Merge**:  takes changes created by a git branch and integrates them into a single branch; combines two branches
+* **Merge Conflict**: happens when people make different changes to the same line of the same file, or when someone edits a file when it is deleted; also happens when merging branches with competing commits
+* **Push**: sends your committed changes to a remote repository 
+* **Pull**: when you fetch in changes and merge them
+* **Remote**: version of a repository/branch that is on a server (such as GitHub.com)
+* **Repository**: most basic element of GitHub; contains all of a project's files, and stores each file's revision history
+## Reference List
+1. [IntroToGitHub-20190318 (1).pptx](https://github.com/juliasklodowska/A03/files/9701548/IntroToGitHub-20190318.1.pptx)
+2. [ExtraInstallationInstructions-20200214.pdf](https://github.com/juliasklodowska/A03/files/9701550/ExtraInstallationInstructions-20200214.pdf)
+3. [Branch Definition](https://www.howtogeek.com/714112/how-to-create-a-new-branch-in-github/#autotoc_anchor_0)
+4. [Clone Definition](https://www.educba.com/github-clone/)
+5. [Commit Definition](https://www.geeksforgeeks.org/what-is-git-commit/)
+6. [Fetch Definition](https://www.atlassian.com/git/tutorials/syncing/git-fetch#:~:text=In%20review%2C%20git%20fetch%20is%20a%20primary%20command,local%20repository%20to%20the%20state%20of%20a%20remote.)
+7. [Git Definition](https://www.git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F)
+8. [Github Definition](https://kinsta.com/knowledgebase/what-is-github/)
+9. [Merge Definition](https://www.atlassian.com/git/tutorials/using-branches/git-merge#:~:text=Git%20Merge%20Merging%20is%20Git%27s%20way%20of%20putting,branch%20and%20integrate%20them%20into%20a%20single%20branch.)
+10. [All other Definitions](https://docs.github.com/en/get-started/quickstart/github-glossary)
